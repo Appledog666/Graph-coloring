@@ -1,9 +1,7 @@
-// Map1.cpp: 定义控制台应用程序的入口点。
+// Tabu_search.cpp: 定义控制台应用程序的入口点。
 //
 
 #include "stdafx.h"
-
-
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
